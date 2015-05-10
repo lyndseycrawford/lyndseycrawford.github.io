@@ -1,0 +1,37 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+
+body {
+  background-color: #FFEEEC;
+  font-family: 'Lato', sans-serif;
+}
+
+.navbar-nav a {
+  font-weight: 300;
+  color: #000 !important;
+}
+
+#lyndsey-logo-homepage {
+  width: 800px !important;
+}
+
+.navbar-brand img {
+  height: 80%;
+  float: left;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #000;
+}
+
+nav {
+  border-radius: 0px !important;
+  border-bottom: 1px solid #000 !important;
+}
+
+.navbar {
+  padding: 10px !important;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: transparent !important;
+}
